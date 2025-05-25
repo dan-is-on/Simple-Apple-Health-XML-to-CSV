@@ -1,5 +1,6 @@
 # Sensitive files
 export.xml
+export_cda.xml
 *.csv
 temp_preprocessed_export.xml
 
